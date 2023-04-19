@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "giày thể thao",
+    "image": "thethao.jpg",
+    "category": "giày",
+    "size": 35
+  },
+  {
+    "id": 2,
+    "name": "dép kẹp",
+    "image": "depkep.jpg",
+    "category": "dép",
+    "size": 36
+  },
+  {
+    "id": 3,
+    "name": "giày converse",
+    "image": "giayconverse.jpg",
+    "category": "giày",
+    "size": 40
+  },
+  {
+    "id": 4,
+    "name": "vớ vải",
+    "image": "vovai.jpg",
+    "category": "vớ",
+    "size": 38
+  }
+]
